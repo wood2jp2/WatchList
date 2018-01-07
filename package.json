@@ -1,0 +1,19 @@
+{
+  "name": "watchlist",
+  "version": "1.0.0",
+  "description": "An app using redux that will allow people to connect over their movie, show, and video game preferences.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wood2jp2/WatchList.git"
+  },
+  "author": "JPW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wood2jp2/WatchList/issues"
+  },
+  "homepage": "https://github.com/wood2jp2/WatchList#readme"
+}
