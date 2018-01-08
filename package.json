@@ -1,19 +1,19 @@
 {
-  "name": "watchlist",
-  "version": "1.0.0",
-  "description": "An app using redux that will allow people to connect over their movie, show, and video game preferences.",
-  "main": "index.js",
+  "name": "react_auth1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@appbaseio/reactivesearch": "^2.0.0-rc",
+    "auth0-js": "^9.0.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/wood2jp2/WatchList.git"
-  },
-  "author": "JPW",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/wood2jp2/WatchList/issues"
-  },
-  "homepage": "https://github.com/wood2jp2/WatchList#readme"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }
